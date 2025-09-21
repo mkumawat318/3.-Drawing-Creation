@@ -1,2 +1,2 @@
-# 3. Drawing-Creation
-Created drawings for different-different stage from schematic stage to As-Built stage 
+GFC & Shop Drawing Creation
+Created drawings for different-different stage and updated Red line markups. 
